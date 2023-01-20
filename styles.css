@@ -1,0 +1,47 @@
+body {
+    text-align:center;
+    background-color:black;
+}
+
+.item {
+    background-color: white; 
+    width: 100px;
+    margin: 5px 20px;
+    font-size: 20px;
+    font-weight:bold;
+    border-radius: 50px;
+}   
+
+    
+    .nav-bar {
+        display: flex;
+        justify-content: center;
+            background-color: lightblue;       
+}
+
+a{
+    text-decoration: none;
+    color: Black;
+}
+
+h1{
+    color:lightblue ;
+}
+
+img{
+    width: 250px;
+    border-radius: 25px;
+}
+
+h2{
+    color:lightblue;
+   
+}
+
+h3{
+  color: white;  
+}
+
+li {
+	color: white;
+}
